@@ -1,4 +1,4 @@
-![logo](Logo/Zip.png)
+![logo](Logo/Logo.jpeg)
 # Developer 
 ![logo](Logo/Logo.jpeg)
 ## use Termux 
